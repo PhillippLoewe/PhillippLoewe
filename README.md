@@ -18,4 +18,5 @@ Seeking opportunities in **backend development** or **system maintenance**, wher
 
 - Email: phillipp182@gmail.com
 
-- Linkedin: [[https://github.com/PhillippLoewe](https://www.linkedin.com/in/phillipploewe/)].  
+- Linkedin: [(https://www.linkedin.com/in/phillipploewe/)](https://www.linkedin.com/in/phillipploewe/)
+
