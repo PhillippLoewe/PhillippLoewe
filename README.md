@@ -15,4 +15,7 @@ Seeking opportunities in **backend development** or **system maintenance**, wher
 
 ## Contact
 - GitHub: [https://github.com/PhillippLoewe](https://github.com/seu-usuario)  
+
 - Email: phillipp182@gmail.com
+
+- Linkedin: [[https://github.com/PhillippLoewe](https://www.linkedin.com/in/phillipploewe/)].  
